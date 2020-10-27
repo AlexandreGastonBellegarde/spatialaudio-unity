@@ -38,6 +38,8 @@ sysinfo.txt
 
 # No binaries
 *.dll
+!DotNetZip.dll
+!NugetForUnity.dll
 
 # Ignore VS Code settings
 .vscode/launch.json
